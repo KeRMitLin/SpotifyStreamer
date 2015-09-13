@@ -1,0 +1,8 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_toptrack_container"
+    android:name="com.kermitlin.spotifystreamer.TopTrackActivityFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kermitlin.spotifystreamer.TopTrackActivity"
+    tools:ignore="MergeRootFrame" />
